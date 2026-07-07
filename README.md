@@ -1,15 +1,16 @@
 # ryanngit
 
-I build small local developer tools for fast-moving AI and agent workflows.
+I build small local developer tools for fast-moving development workflows.
 
 Best place to start:
 
-- [agent-handoff](https://github.com/ryanngit/agent-handoff): create portable handoff packets from coding-agent sessions. Local-only, deterministic, no account.
+- [agent-handoff](https://github.com/ryanngit/agent-handoff): create portable handoff packets from coding sessions. Local-only, deterministic, no account.
 
 Other current tools:
 
 - [prooftrail](https://github.com/ryanngit/prooftrail): capture local command evidence and redacted proof bundles.
 - [mcp-smoke](https://github.com/ryanngit/mcp-smoke): smoke-test MCP servers and write compatibility reports.
+- [builder-trend-scout](https://github.com/ryanngit/builder-trend-scout): rank public developer-tool signals into local repo idea reports.
 
 The common thread: tools that keep local work understandable, portable, and easier to verify.
 
