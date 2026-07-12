@@ -1,17 +1,19 @@
-# ryanngit
+# Ryan
 
-I build small local developer tools for fast-moving development workflows.
+OSS contributor building reliable AI workflows, developer tools, and market-analysis systems.
 
-Best place to start:
+## Focus
 
-- [agent-handoff](https://github.com/ryanngit/agent-handoff): create portable handoff packets from coding sessions. Local-only, deterministic, no account.
+- Multi-agent workflows coordinating up to 40 specialized agents per pipeline.
+- Script-first automation built for deterministic behavior, verification, and reliable handoffs.
+- Market-analysis systems using probability, Fibonacci levels, machine learning, and order-flow signals.
 
-Other current tools:
+## Open-source work
 
-- [prooftrail](https://github.com/ryanngit/prooftrail): capture local command evidence and redacted proof bundles.
-- [mcp-smoke](https://github.com/ryanngit/mcp-smoke): smoke-test MCP servers and write compatibility reports.
-- [builder-trend-scout](https://github.com/ryanngit/builder-trend-scout): rank public developer-tool signals into local repo idea reports.
+- [9router](https://github.com/decolua/9router): external contributor with owner-applied work and attributed commits retained on current `master`.
+- [mcp-smoke](https://github.com/ryanngit/mcp-smoke): smoke-test MCP servers and generate compatibility reports.
+- [agent-handoff](https://github.com/ryanngit/agent-handoff): create portable coding-session handoffs.
+- [prooftrail](https://github.com/ryanngit/prooftrail): capture command evidence and redacted proof bundles.
+- [builder-trend-scout](https://github.com/ryanngit/builder-trend-scout): turn public developer signals into ranked project ideas.
 
-The common thread: tools that keep local work understandable, portable, and easier to verify.
-
-For support or custom workflow help, open an issue on the closest repo with a short example of the workflow you want to improve.
+For collaboration, open an issue in the relevant repository.
